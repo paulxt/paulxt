@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paulxt
 - 👀 I’m interested in AI and Web Development.
-- 🌱 I’m currently learning aobut the JS, HTML, and CSS.
+- 🌱 I’m currently learning the Web Full Stack Development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? You can drop the message to: xt.paul0115@gmail.com
 
